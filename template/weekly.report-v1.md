@@ -1,6 +1,6 @@
 # XPO Logistics
 
-## Weekly Report: 1/1/2000
+## NCIS - Weekly Report: 1/1/2000
 
 ### General Comments
 
@@ -17,21 +17,25 @@
 #### Leadership Attention
 
 - None
+- [ ] None. @owner @when: 1/1/2000
 
 #### Key Decisions
 
 - None
+- [ ] None. @owner @when: 1/1/2000
 
 #### Sprint Commitments
 
 - None
+- [ ] None. @owner @when: 1/1/2000
 
 #### Accomplishments
 
 - None
+- [ ] None. @owner @when: 1/1/2000
 
 #### Future Work
 
 - None
-
+- [ ] None. @owner @when: 1/1/2000
 
