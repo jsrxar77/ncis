@@ -11,4 +11,4 @@
 - [ ] No comments in Jira, DEV is working on Jira.
 - [ ] DEV team needs context information.
 - [ ] Vacations: Filip 3 to 15 oct / Juan Maritn Lopez 4 to 11 oct.
-- [ ] Annia fill up.
+- [ ] Annia fill up, discounts Annia or Fernando?. If Annia is assigned to project 5280 if not 7040. Fernando will have discount so charges may be added to december.
