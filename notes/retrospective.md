@@ -20,6 +20,21 @@
 - [ ] Board structure changes. @annia
 - [ ] Comments usage in issues in general. @luisina
 - [ ] Using bug tag when a story has been tested and has an issue. @luisina
+- [ ] Lack of internal communication: licenses, etc.
 
 ### Improvments
-> next thursday
+- Preplanning Meeting (4 amigos): only will be reviewed "Analysis" stories
+  - Backlog (PO)
+  - Analysis (BA)
+  - **Ready for dev (Business rules, story points)**
+- Sprint Planning: only will be reviewed "Ready for dev" stories
+  - definir todas las stories que entran en el sprint y la cantidad de story points finales para cada una de esas. Es indistinto asignar la persona a la story en esa instancia.
+  - Queda un gris en como se define el sprint backlog
+- **Ready for ba signoff"**
+- **Block"**
+
+  
+- Use jira comments no emails @team
+- Improve analysis in detail @team
+- Bugs que vuelven de stories en qa
+  
