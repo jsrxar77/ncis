@@ -23,18 +23,11 @@
 - [ ] Lack of internal communication: licenses, etc.
 
 ### Improvments
-- Preplanning Meeting (4 amigos): only will be reviewed "Analysis" stories
-  - Backlog (PO)
-  - Analysis (BA)
-  - **Ready for dev (Business rules, story points)**
-- Sprint Planning: only will be reviewed "Ready for dev" stories
-  - definir todas las stories que entran en el sprint y la cantidad de story points finales para cada una de esas. Es indistinto asignar la persona a la story en esa instancia.
-  - Queda un gris en como se define el sprint backlog
-- **Ready for ba signoff"**
-- **Block"**
 
-  
-- Use jira comments no emails @team
-- Improve analysis in detail @team
-- Bugs que vuelven de stories en qa
-  
+- Use jira comments everytime the subject is related to an issue, avoid emails for that (if both media are being used, it is impossible to track changes)
+- More detail in the analysis of "Use Cases" (confluence) as new business rules are usually found in the development phase. We propose a checklist to review if we have the right analysis to create a "Story" 
+  - [ ] Review by the expert of previous CIS (Stephen)
+  - [ ] Basic flow defined with business rules.
+  - [ ] Complete definition of input/ouput parameters on GUI and Services.
+- Have or use the bucket "Ready for Dev" or at least have a place to pull all the "Story" that are ready to be developed so we can measure the backlog health.
+- Have a place or bucket for "Blocked" issues by external reasons. If we don't have that all blocked times are charged to development.

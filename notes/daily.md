@@ -30,12 +30,22 @@
 ## 9/12/2019
 - Gather jira issue information manually. 
 - Grooming/Pre-PLanning sprint meeting.
-- [ ] Refine Burndown report on Excel:
+- [x] Refine Burndown report on Excel:
   - QA Burndown
   - Dev Burndown
-- [ ] Create the pdf report with 5 sections.
+- [x] Create the pdf report with 5 sections.
+- [x] Standup meeting.
+- [x] Demo.
+- [x] Internal retrospective.
+- Today
+- No
+
+## 9/13/2019
+- Gather jira issue information manually. 
+- Customer hierarchy, customer request search and email forwarding demo.
+- Standup meeting.
+- [ ] Review weekly report with Terri.
 - [ ] Standup meeting.
-- [ ] Demo.
-- [ ] Internal retrospective.
+- [ ] improvement results from retrospective internal meeting.
 - Today
 - No
